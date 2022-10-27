@@ -1,3 +1,4 @@
-# Gerador de senha
+# Gerador de senhas em Python
 
-Gerador de senha em Python
+Ele funciona gerando automaticamente senhas aleatórias que incluem combinações de números, letras maiúsculas e minúsculas
+e caracteres especiais.
